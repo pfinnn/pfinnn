@@ -1,7 +1,6 @@
 Hi there; I'm Finn! 
 
-
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pfinnn&theme=github-compact)](https://github.com/pfinnn/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pfinnn&theme=react)](https://github.com/pfinnn/github-readme-activity-graph)
 
 <!--
 **pfinnn/pfinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
